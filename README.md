@@ -1,4 +1,4 @@
-<img width="max-width" height="396" alt="Banner" src="https://github.com/user-attachments/assets/a652b2cd-8022-4c1c-88f9-e216ad78df36" />
+<img width="100%" height="200" alt="Banner" src="https://github.com/user-attachments/assets/a12437d9-1703-457b-8541-fec42d8b5fc0" />
 
 # 🌿 Hi, I'm Blanca
 I'm a junior web developer with hands-on experience in frontend development, focusing on building user-friendly websites and applications. I enjoy combining creative design with clean code to create engaging digital experiences.
