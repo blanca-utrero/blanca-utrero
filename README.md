@@ -1,16 +1,38 @@
-## Hi there 👋
+<img width="max-width" height="396" alt="Banner" src="https://github.com/user-attachments/assets/a652b2cd-8022-4c1c-88f9-e216ad78df36" />
 
-<!--
-**blanquita14/blanquita14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🌿 Hi, I'm Blanca
+I'm a junior web developer with hands-on experience in frontend development, focusing on building user-friendly websites and applications. I enjoy combining creative design with clean code to create engaging digital experiences.
 
-Here are some ideas to get you started:
+## 🎯 What I do
+I build responsive and accessible websites using **HTML**, **CSS**, and **JavaScript**.  
+I’m comfortable working with modern frontend frameworks and tools that help me create smooth, efficient user experiences.  
+Always eager to learn and level up my skills!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🚀 Technologies & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,bootstrap,tailwind,php,mysql,java,laravel,git,wordpress,figma,vscode&theme=dark" />
+</p>
+
+## 💻 A little more about me
+```js
+const blanca = {
+  pronouns: "she/her",
+  code: ["HTML", "CSS", "JavaScript", "PHP", "SQL", "Java"],
+  frameworks: ["React", "Vue", "Laravel", "Tailwind", "Bootstrap"],
+  tools: ["Git", "WordPress", "Figma", "VS Code"],
+  interests: ["frontend", "design", "accessibility", "user experience"],
+  funFact: "I love mixing art and code to tell stories!"
+};
+```
+
+## 🌸 Looking for
+Junior frontend developer roles, internships, or remote opportunities where I can contribute, learn, and grow — preferably in collaborative, creative teams.
+
+## 🌷 Contact me
+📧 [blanca.utrero@gmail.com](mailto:blanca.utrero@gmail.com) <br>
+🔗 [LinkedIn](https://www.linkedin.com/in/blanca-utrero/)
+
+---
+
+<em>Let’s grow something beautiful together! 🌱</em>
